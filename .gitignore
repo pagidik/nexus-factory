@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Temporary local artifacts
+shot.html
+shot_jina.txt
+dribbble.json

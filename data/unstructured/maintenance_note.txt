@@ -1,0 +1,4 @@
+Maintenance bulletin:
+Assembly-01 torque station had 2 stoppages in the last shift; repeat risk medium.
+Paint-02 oven temperature fluctuation remains unresolved; expected additional 20 minutes downtime next shift.
+Packaging-03 no recurring issue observed.

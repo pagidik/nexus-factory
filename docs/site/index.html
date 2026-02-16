@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nexus Factory</title>
+  <meta
+    name="description"
+    content="Nexus Factory is personal intelligence for manufacturing, helping plant teams decide the next best move each shift."
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="page">
+    <header class="hero card">
+      <div class="hero-copy">
+        <p class="eyebrow">Nexus Factory</p>
+        <h1>Know the next best move before the line falls behind.</h1>
+        <p class="lead">
+          Shift notes, stores updates, and dispatch calls already contain the
+          truth. Nexus Factory is personal intelligence for manufacturing teams,
+          turning daily noise into a short action list: what is slipping, what
+          to do now, and who needs to move.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#use-case">See Shift-Level Use Case</a>
+          <a class="btn btn-ghost" href="#interview">Book Interview</a>
+        </div>
+      </div>
+      <div class="hero-media">
+        <img
+          class="hero-main-image"
+          src="./assets/1.png"
+          alt="Two-wheeler assembly line with operators and line stations"
+        />
+        <img
+          class="hero-accent-image"
+          src="./assets/2.png"
+          alt="Tablet-style production dashboard concept"
+        />
+      </div>
+      <aside class="hero-panel">
+        <h2>What to act on before next review</h2>
+        <ul>
+          <li>Move manpower to the station constraining output</li>
+          <li>Escalate the part shortage that will hurt dispatch first</li>
+          <li>Protect customer commits likely to slip this shift</li>
+          <li>Lock the next 2-hour recovery plan</li>
+        </ul>
+      </aside>
+    </header>
+
+    <section id="use-case" class="card use-case">
+      <h2>Real Use Case: Two-Wheeler Assembly Plant</h2>
+      <p class="section-lead">
+        Frame prep, paint, final assembly, and dispatch are all running. By
+        mid-shift, small delays start stacking. Here is what that day looks
+        like and what the team can do immediately.
+      </p>
+
+      <div class="timeline">
+        <article class="event">
+          <img
+            class="event-image"
+            src="./assets/3.png"
+            alt="Stores area with bearing lots on hold near forklift"
+            loading="lazy"
+          />
+          <p class="time">06:00</p>
+          <h3>Shift Start</h3>
+          <p>
+            Front-fork line slows after bearing lot is late from stores.
+          </p>
+        </article>
+        <article class="event">
+          <img
+            class="event-image"
+            src="./assets/4.png"
+            alt="Paint booth with queued body panels"
+            loading="lazy"
+          />
+          <p class="time">10:30</p>
+          <h3>In-Process Review</h3>
+          <p>
+            Paint queue rises and WIP builds before final assembly.
+          </p>
+        </article>
+        <article class="event">
+          <img
+            class="event-image"
+            src="./assets/5.png"
+            alt="Dispatch area with built vehicles waiting at loading bays"
+            loading="lazy"
+          />
+          <p class="time">15:30</p>
+          <h3>Pre-Dispatch Check</h3>
+          <p>
+            Two dealer shipments are now exposed because assembly and
+            packaging are both behind plan.
+          </p>
+        </article>
+      </div>
+
+      <div class="assistant-output">
+        <h3>How Nexus Factory responds</h3>
+        <div class="assistant-content">
+          <img
+            class="assistant-image"
+            src="./assets/6.png"
+            alt="Operations dashboard screen highlighting process bottleneck"
+            loading="lazy"
+          />
+          <p>
+            "Line 2 likely to lose output for next 3 hours due to bearing
+            shortage. Move technician to station B14, release stores lot now,
+            and prioritize D-204 and D-219 in packaging to hold dispatch date."
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="interview" class="card interview">
+      <div class="interview-head">
+        <h2>Interview Request</h2>
+        <p>
+          Share your current production pain point. In 20 minutes, we will map
+          one real issue from your floor and show how the assistant would handle
+          it with your existing update flow.
+        </p>
+      </div>
+
+      <form id="interviewForm" class="interview-form">
+        <label>
+          Name
+          <input id="name" type="text" required />
+        </label>
+        <label>
+          Company
+          <input id="company" type="text" required />
+        </label>
+        <label>
+          Role in Plant
+          <input id="role" type="text" placeholder="Production manager / line supervisor / planning" required />
+        </label>
+        <label>
+          Work Email
+          <input id="email" type="email" required />
+        </label>
+        <label class="wide">
+          Biggest Recurring Issue
+          <textarea id="issue" rows="4" required></textarea>
+        </label>
+        <button type="submit">Send Interview Request</button>
+      </form>
+      <p class="note">No software install needed. 20-minute conversation only.</p>
+    </section>
+
+    <section class="card resources">
+      <h2>Virtual Twin Starters</h2>
+      <div class="resource-grid">
+        <a href="https://pages.nist.gov/ARIAC_docs/en/2024.1.0/installation.html" target="_blank" rel="noopener noreferrer">ARIAC Docs</a>
+        <a href="https://github.com/IFRA-Cranfield/IFRA_ConveyorBelt" target="_blank" rel="noopener noreferrer">IFRA ConveyorBelt</a>
+        <a href="https://github.com/OpenFactoryTwin/ofact" target="_blank" rel="noopener noreferrer">OpenFactoryTwin</a>
+        <a href="https://anylogic.help/anylogic/introduction/demo-models.html" target="_blank" rel="noopener noreferrer">AnyLogic Demo Models</a>
+        <a href="https://factoryio.com/" target="_blank" rel="noopener noreferrer">Factory I/O</a>
+      </div>
+    </section>
+
+    <section id="letter" class="card letter">
+      <h2>Separate Note to Plant and Operations Leaders</h2>
+      <div class="letter-layout">
+        <div class="letter-body">
+          <p>Your plant already has the signals needed to run better.</p>
+          <p>
+            The challenge is speed of decision: updates sit in different places
+            across production, stores, maintenance, and dispatch.
+          </p>
+          <p>
+            We are building personal intelligence for manufacturing: one
+            shift-level view with clear priorities, owners, and next actions.
+          </p>
+          <p>
+            If this matches your daily reality, we would value a short working
+            session with your team.
+          </p>
+        </div>
+        <img
+          class="letter-image"
+          src="./assets/8.png"
+          alt="Plant desk with shift report paperwork and pen"
+          loading="lazy"
+        />
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const TEAM_CONTACT_EMAIL = "founders@manufacturing-pa.com";
+    const interviewForm = document.getElementById("interviewForm");
+
+    interviewForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const name = document.getElementById("name").value.trim();
+      const company = document.getElementById("company").value.trim();
+      const role = document.getElementById("role").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const issue = document.getElementById("issue").value.trim();
+
+      const subject = encodeURIComponent(`Interview Request | ${company}`);
+      const body = encodeURIComponent(
+        [
+          "Hi team,",
+          "",
+          "I would like to join a short interview for Nexus Factory.",
+          "",
+          `Name: ${name}`,
+          `Company: ${company}`,
+          `Role: ${role}`,
+          `Email: ${email}`,
+          "",
+          "Biggest recurring issue:",
+          issue,
+          "",
+          "Thanks."
+        ].join("\n")
+      );
+
+      window.location.href = `mailto:${TEAM_CONTACT_EMAIL}?subject=${subject}&body=${body}`;
+    });
+  </script>
+</body>
+</html>

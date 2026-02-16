@@ -1,0 +1,51 @@
+[1:59 PM, 2/16/2026] Hitesh Bhadana: A niche problem that SOLIDWORKS doesn’t want to target
+[1:59 PM, 2/16/2026] Kishore Reddy: Yeah
+[2:00 PM, 2/16/2026] Kishore Reddy: CAD Personal Assistant.
+[2:10 PM, 2/16/2026] Hitesh Bhadana: CAD Personal Assistant.
+What about manufacturing personal assistant. Which gives you updates on current states of lines, logistics, orders, etc.?
+[2:10 PM, 2/16/2026] Hitesh Bhadana: What about manufacturing personal assistant. Which gives you updates on current states of lines, logistics, orders, etc.?
+All information already exists in unstructured forms at different places and different forms.
+[2:11 PM, 2/16/2026] Kishore Reddy: yeah actually even better
+[2:11 PM, 2/16/2026] Kishore Reddy: more useful there
+[2:11 PM, 2/16/2026] Hitesh Bhadana: Yeahh
+[2:11 PM, 2/16/2026] Hitesh Bhadana: Ask Open claw to create a POC. 
+
+Ask it to take an example of a bike company.
+[2:12 PM, 2/16/2026] Hitesh Bhadana: It can create the unstructured documents to replicate real life scenarios
+[2:12 PM, 2/16/2026] Hitesh Bhadana: And even download from Internet
+[2:13 PM, 2/16/2026] Hitesh Bhadana: I think it should be able to create a poc with so many stories/blogs available online.
+[2:13 PM, 2/16/2026] Hitesh Bhadana: What about manufacturing personal assistant. Which gives you updates on current states of lines, logistics, orders, etc.?
+It can even automatically identify potential delays, bottle necks, etc.
+[2:13 PM, 2/16/2026] Kishore Reddy: Yeah
+[2:14 PM, 2/16/2026] Hitesh Bhadana: It can even automatically identify potential delays, bottle necks, etc.
+We can even start more nice by creating a line balance agent
+[2:14 PM, 2/16/2026] Hitesh Bhadana: We will have to install some sensors to monitor production and collect data
+[2:14 PM, 2/16/2026] Hitesh Bhadana: Give it a virtual twin of the mfg line
+[2:14 PM, 2/16/2026] Kishore Reddy: yeah
+[2:14 PM, 2/16/2026] Hitesh Bhadana: And then it can automatically identify bottle necks
+[2:15 PM, 2/16/2026] Hitesh Bhadana: And utilize itself knowledge to improve line efficiency
+[2:15 PM, 2/16/2026] Hitesh Bhadana: And utilize itself knowledge to improve line efficiency
+Real problem
+[2:15 PM, 2/16/2026] Hitesh Bhadana: With huge TAM
+[2:15 PM, 2/16/2026] Hitesh Bhadana: And once we can create a POC
+[2:15 PM, 2/16/2026] Hitesh Bhadana: With a virtual mfg line
+[2:15 PM, 2/16/2026] Hitesh Bhadana: That we create or download from Internet
+[2:15 PM, 2/16/2026] Hitesh Bhadana: Add some sensors
+[2:15 PM, 2/16/2026] Hitesh Bhadana: And then show it working
+[2:16 PM, 2/16/2026] Hitesh Bhadana: And once we start doing at scale
+[2:16 PM, 2/16/2026] Hitesh Bhadana: In real industry
+[2:16 PM, 2/16/2026] Hitesh Bhadana: Once we are in one line
+[2:16 PM, 2/16/2026] Hitesh Bhadana: They would want us to expand in other lines
+[2:16 PM, 2/16/2026] Hitesh Bhadana: Their efficiency will go up
+[2:16 PM, 2/16/2026] Hitesh Bhadana: Even there competitors would come to us
+[2:16 PM, 2/16/2026] Hitesh Bhadana: We will also be collecting data along the way
+[2:17 PM, 2/16/2026] Hitesh Bhadana: Creating our most stronger
+[2:17 PM, 2/16/2026] Hitesh Bhadana: With every new customer
+[2:17 PM, 2/16/2026] Hitesh Bhadana: Making us very hard to replace
+[2:17 PM, 2/16/2026] Hitesh Bhadana: Or remove
+[2:17 PM, 2/16/2026] Kishore Reddy: yeah
+[2:17 PM, 2/16/2026] Hitesh Bhadana: Can you send these message to ooenclaw
+[2:17 PM, 2/16/2026] Kishore Reddy: yeah
+[2:17 PM, 2/16/2026] Hitesh Bhadana: And ask it to create a product pitch
+[2:18 PM, 2/16/2026] Hitesh Bhadana: Then validate the problem, and market
+[2:18 PM, 2/16/2026] Hitesh Bhadana: As soon as we have our product pitch ready and market validated, we can work on POC

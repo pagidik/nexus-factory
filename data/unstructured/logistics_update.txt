@@ -1,0 +1,4 @@
+Logistics update 2026-02-16 11:00:
+Shipment SHP-778 for route SupplierHub->Plant carrying brake calipers is delayed by 14 hours (status: in_transit) because of weather closure.
+Shipment SHP-801 for route WheelVendor->Plant carrying rims is on time with ETA 6 hours (status: in_transit).
+Shipment SHP-809 for route BatteryPartner->Plant carrying battery packs is delayed by 5 hours (status: in_transit) because of checkpoint congestion.

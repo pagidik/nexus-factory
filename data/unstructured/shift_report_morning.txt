@@ -1,0 +1,6 @@
+BikeCo Plant Briefing
+Date: 2026-02-16
+Shift: Morning
+Line Assembly-01 produced 410 units against target 480. Downtime 62 min due to torque station jam. Defect rate 2.1%.
+Line Paint-02 produced 275 units against target 320. Downtime 48 min due to curing oven instability. Defect rate 4.2%.
+Line Packaging-03 produced 500 units against target 520. Downtime 18 min due to label roll changeover. Defect rate 1.1%.
